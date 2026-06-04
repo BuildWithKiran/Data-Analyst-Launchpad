@@ -255,6 +255,7 @@ export const resources: Resource[] = [
     type: "Article",
     difficulty: "Beginner",
     estimatedTime: "3 hours",
+    free: true,    
     tags: ["Career", "Interview", "Real Experience"],
   },
   {
